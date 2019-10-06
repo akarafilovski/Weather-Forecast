@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#18255E</color>
+    <color name="colorPrimaryDark">#18255E</color>
+<!--    <color name="colorPrimaryDark">#15518C</color>-->
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="color_purple">#18255E</color>
+    <color name="color_pink">#9661A1</color>
+    <color name="card_bg">#384176</color>
+</resources>

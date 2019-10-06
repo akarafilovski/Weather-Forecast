@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <!-- menu search action -->
+    <string name="action_search">Search</string>
+    <string name="action_my_location">My Location</string>
+    <string name="rationale_dialog_title">Permission required</string>
+    <string name="rationale_dialog_message">Permission to access location is required, in order to get weather forecast by location.\nIf needed add permissions from settings.</string>
+
+
+    <string name="temp">%s \u2103</string>
+    <string name="humidity">%s \%</string>
+    <string name="pressure">%s hPa</string>
+    <string name="min_max_temp">\u2191%s \u00B0    \u2193%s \u00B0</string>
+    <string name="min_temp">\u2193 %s \u2103</string>
+    <string name="max_temp">\u2191 %s \u2103</string>
+<!--    \u2103-->
+    <string name="main_description">%s, %s</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_settings_label">Location is unavailable. Please turn location on or search by city name!!!</string>
+    <string name="settings">Settings</string>
+    <string name="weather_forecast_not_available">Weather forecast not available.</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="pressure_label">Pressure</string>
+    <string name="no_network_connection">No internet connetion</string>
+</resources>
